@@ -1,6 +1,6 @@
 //React
 import React from "react";
-import { StyleSheet, Text, View, ImageBackground } from "react-native";
+import { StyleSheet, View } from "react-native";
 
 //StatusBar
 import { StatusBar } from "expo-status-bar";
