@@ -11,7 +11,7 @@
 ## How to run the app 
 Inside a folder, run:
 ```bash
-$ git clone https://github.com/HMDarkFir3/weather-forecast.git
+$ git clone https://github.com/HMDarkFir3/TeslaClone.git
 ```
 At the root of the project, run:
 ```bash
