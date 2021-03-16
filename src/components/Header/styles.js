@@ -11,7 +11,7 @@ export const styles = StyleSheet.create({
     paddingHorizontal: 20,
 
     position: "absolute",
-    top: "3%",
+    top: 50,
 
     zIndex: 100,
   },

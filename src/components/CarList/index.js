@@ -12,8 +12,6 @@ import { styles } from "./styles";
 import cars from "../../utils/cars";
 
 export default function CarList() {
-  console.log(cars);
-
   return (
     <View style={styles.carListContainer}>
       <FlatList
