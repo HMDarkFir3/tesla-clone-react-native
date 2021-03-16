@@ -7,11 +7,11 @@ export const styles = StyleSheet.create({
     height: "100%",
   },
   image: {
+    position: "absolute",
+    resizeMode: "cover",
+
     width: "100%",
     height: "100%",
-
-    resizeMode: "cover",
-    position: "absolute",
   },
   titles: {
     alignItems: "center",
@@ -27,5 +27,14 @@ export const styles = StyleSheet.create({
   subtitle: {
     fontSize: 16,
     color: "#5c5e62",
+  },
+  subtitleCTA: {
+    textDecorationLine: "underline",
+  },
+  buttonContainer: {
+    position: "absolute",
+    bottom: 50,
+
+    width: "100%",
   },
 });
