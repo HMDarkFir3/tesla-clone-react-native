@@ -1,6 +1,7 @@
 <p align="center" >
-  <img align="center" src="https://user-images.githubusercontent.com/65872394/111372660-b1f94400-8679-11eb-9f01-93ba79030eeb.png" />
+  <img align="center" src="https://user-images.githubusercontent.com/65872394/111817156-6da9b600-88bc-11eb-957c-b4609c178d4f.png" width="150" height="auto" />
 </p>
+
 
 <h1 align="center">
   🚀 Concluded 🚀
@@ -41,7 +42,10 @@ $ cd TeslaClone
 
 ### 🎲 Rodando a Aplicação
 
-```bash
+```bash![icons8-tesla-128](https://user-images.githubusercontent.com/65872394/111817061-4e128d80-88bc-11eb-9da2-173e8e8c64a0.png)
+![icons8-tesla-240](https://user-images.githubusercontent.com/65872394/111817142-6a162f00-88bc-11eb-83ba-08e5be8b769e.png)
+
+
 # Instale as dependências
 $ yarn install
 
