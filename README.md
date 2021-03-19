@@ -6,32 +6,38 @@
   🚀 Concluded 🚀
 </h1>
   
-<hr>
+---
 
 ## 📋 Sobre
 Aplicativo clone do site da [Tesla](https://www.tesla.com) para mobile.
 
-<hr>
+---
 
-## 📂 Como rodar o projeto
+## 📂 Como rodar este projeto
+
+Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [NodeJs](https://nodejs.org/en/) e [Android Studio](https://developer.android.com/studio) Instalado em seu computador.
+
+### 🌀 Clonando o repositório
 
 ```bash
-#  Clone o repositório:
-git clone https://github.com/HMDarkFir3/TestaClone.git
+# Clone este repositório
+$ git clone https://github.com/HMDarkFir3/TeslaClone.git
 
-# Entrar no diretório
-cd TestaClone
-
-# Instalar as dependências
-npm install  
-ou
-yarn install
-
-# Iniciar o projeto
-expo start
+# Acesse a pasta do projeto no terminal/cmd
+$ cd TeslaClone
 ```
 
-<hr>
+### 🎲 Rodando a Aplicação
+
+```bash
+# Instale as dependências
+$ yarn install
+
+# Execute a Aplicação em Desenvolvimento
+$ yarn android
+```
+
+---
 
 ## 🚀 Tecnologias Utilizadas
  
@@ -41,7 +47,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Expo](https://expo.io)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-<hr>
+---
 
 ## 💪 Como contribuir para o projeto
 
@@ -51,7 +57,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-<hr>
+---
 
 ## 🧑 Autor
 
@@ -60,7 +66,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/)](https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/) 
 
-<hr>
+---
 
 ## 📝 Licença
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber mais. 
