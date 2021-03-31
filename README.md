@@ -34,7 +34,7 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/HMDarkFir3/TeslaClone.git
+$ git clone https://github.com/HMDarkFir3/TeslaClone_ReactNative.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd TeslaClone
