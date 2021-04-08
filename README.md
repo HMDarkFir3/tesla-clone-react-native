@@ -47,7 +47,7 @@ $ cd TeslaClone_ReactNative
 $ yarn install
 
 # Execute a Aplicação em Desenvolvimento
-$ yarn android
+$ expo start
 ```
 
 ---
